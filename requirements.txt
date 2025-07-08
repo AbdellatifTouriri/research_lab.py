@@ -1,0 +1,5 @@
+agno
+requests
+beautifulsoup4
+pymupdf
+sentence-transformers
